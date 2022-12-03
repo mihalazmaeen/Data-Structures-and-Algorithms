@@ -6,3 +6,5 @@ function fibonacci(n) {
     return fib;
 }
 console.log(fibonacci(7));
+
+// O(n)
